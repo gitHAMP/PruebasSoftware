@@ -19,3 +19,11 @@ C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\Ca
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.dll
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.xml
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+C:\Users\hamp\Source\Repos\PruebasSoftware2\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CommandLine.dll
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CommandLine.xml
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
