@@ -10,40 +10,33 @@ namespace CalculatorConsole
     {
         public static void Main(string[] args)
         {
-            var options = new ArgumentsOptions();
-            var isValid = CommandLine.Parser.Default.ParseArguments(args, options);
 
-            if (isValid)
-            {
-                var c = new Calculator();
-                double result = 0;
-                switch (options.Operacion)
-                {
-                    case OperationType.suma:
-                        result = c.Suma(options.Value1, options.Value2);
-                        break;
-                    case OperationType.divide:
-                        result = c.Dividir(options.Value1, options.Value2);
-                        break;
-                    default:
-                        break;
-                }
+            var c = new Calculator();
+            double result1 = 0;
+            double result2 = 0;
 
-                Console.WriteLine($"Resultado esperado: {result}");
-                //Console.WriteLine("Resultado:{0}", result);
+            result1 = c.Suma(3, 2);
+
+            result2 = c.Dividir(3, 2);
+
+            Console.WriteLine($"Resultado esperado: {result1}");
+            //Console.WriteLine("Resultado:{0}", result);
+
+            Console.WriteLine($"Resultado esperado: {result2}");
+            //Console.WriteLine("Resultado:{0}", result2);
 
 
-                //Console.WriteLine();
-                //c.Dividir(1, 3);
-                //Console.WriteLine();
+            //Console.WriteLine();
+            //c.Dividir(1, 3);
+            //Console.WriteLine();
 
-                Console.WriteLine();
-                c.Dividir(1, 3);
-                Console.WriteLine();
+            Console.WriteLine();
+            c.Dividir(1, 3);
+            Console.WriteLine();
 
-                Console.WriteLine("Pulse INTRO para finalizar...");
-                Console.ReadLine();
+            Console.WriteLine("Pulse INTRO para finalizar...");
+            Console.ReadLine();
             }
         }
-    }
 }
+

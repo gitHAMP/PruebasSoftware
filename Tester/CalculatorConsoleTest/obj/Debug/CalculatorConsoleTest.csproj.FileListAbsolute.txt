@@ -25,3 +25,12 @@ C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsoleTest\bin\Deb
 C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csprojResolveAssemblyReference.cache
 C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.dll
 C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.dll
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsole.exe
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsole.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsole.exe.config
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.dll
+C:\Users\hamp\Source\Repos\PruebasSoftware3\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
