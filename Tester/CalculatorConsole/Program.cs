@@ -33,6 +33,10 @@ namespace CalculatorConsole
                 //Console.WriteLine("Resultado:{0}", result);
 
 
+                //Console.WriteLine();
+                //c.Dividir(1, 3);
+                //Console.WriteLine();
+
                 Console.WriteLine();
                 c.Dividir(1, 3);
                 Console.WriteLine();
