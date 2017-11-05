@@ -11,3 +11,11 @@ D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Softwar
 D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
 D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
 D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.dll
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.xml
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
