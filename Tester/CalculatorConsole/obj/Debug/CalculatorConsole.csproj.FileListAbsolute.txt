@@ -19,3 +19,4 @@ C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\Ca
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.dll
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\bin\Debug\CommandLine.xml
 C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+C:\Users\hamp\Source\Repos\PruebasSoftware\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
