@@ -8,7 +8,7 @@ namespace CalculatorConsole
 {
     interface ICalculator
     {
-        int Divide(int a, int b);
-        int Sum(int a, int b);
+        int Dividir(int a, int b);
+        int Suma(int a, int b);
     }
 }

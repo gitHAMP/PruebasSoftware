@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CalculatorConsole
 {
-    public class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var options = new ArgumentsOptions();
             var isValid = CommandLine.Parser.Default.ParseArguments(args, options);
@@ -30,6 +30,8 @@ namespace CalculatorConsole
                 }
 
                 Console.WriteLine($"Resultado esperado: {result}");
+                //Console.WriteLine("Resultado:{0}", result);
+
 
                 Console.WriteLine();
                 c.Dividir(1, 3);
@@ -38,5 +40,6 @@ namespace CalculatorConsole
                 Console.WriteLine("Pulse INTRO para finalizar...");
                 Console.ReadLine();
             }
+        }
     }
 }
