@@ -19,10 +19,10 @@ namespace CalculatorConsole
 
             result2 = c.Dividir(3, 2);
 
-            Console.WriteLine($"Resultado esperado: {result1}");
+            Console.WriteLine($"Resultado esperado de suma: {result1}");
             
 
-            Console.WriteLine($"Resultado esperado: {result2}");
+            Console.WriteLine($"Resultado esperado de resta: {result2}");
             
 
 
