@@ -1,0 +1,7 @@
+D:\NET\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.dll
+D:\NET\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+D:\NET\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsole.exe
+D:\NET\Tester\CalculatorConsoleTest\bin\Debug\CalculatorConsole.pdb
+D:\NET\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csprojResolveAssemblyReference.cache
+D:\NET\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.dll
+D:\NET\Tester\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb

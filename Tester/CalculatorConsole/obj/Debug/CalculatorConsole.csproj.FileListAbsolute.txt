@@ -1,0 +1,13 @@
+D:\NET\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+D:\NET\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+D:\NET\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+D:\NET\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+D:\NET\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+D:\NET\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Laboratorio 5-JUnit,TestNG, NUnit ( Pruebas Unitarias )\Net\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Laboratorio 5-JUnit,TestNG, NUnit ( Pruebas Unitarias )\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Laboratorio 5-JUnit,TestNG, NUnit ( Pruebas Unitarias )\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+D:\Cursos UPAO\Linea de Gestion de Proyectos\ISW3 - Pruebas y Calidad de Software\Semana 12 SonarQue ( Calidad de Codigo)\Net\Tester\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
