@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsole", "Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsoleTest", "CalculatorConsoleTest\CalculatorConsoleTest.csproj", "{E7A7DAC8-5EAB-4512-ABC7-E9ED1731AC58}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SonarQube", "SonarQube", "{C264D06A-9ECA-4930-91DF-31ECDFC29372}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SonarQube", "SonarQube", "{902DF8E1-10AA-4C4F-B28E-0E1130234AD6}"
 	ProjectSection(SolutionItems) = preProject
-		SonarQube\CCCSharp.ruleset = SonarQube\CCCSharp.ruleset
+		SonarQube\CalculadorConsoleCSharp.ruleset = SonarQube\CalculadorConsoleCSharp.ruleset
 		SonarQube\SolutionBinding.sqconfig = SonarQube\SolutionBinding.sqconfig
 	EndProjectSection
 EndProject

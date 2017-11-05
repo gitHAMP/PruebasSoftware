@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RuleSet Name="SonarQube - CalculadorConsole Sonar way" ToolsVersion="15.0">
-  <Include Path="..\sonarqube\cccsharp.ruleset" Action="Default" />
+  <Include Path="..\sonarqube\calculadorconsolecsharp.ruleset" Action="Default" />
 </RuleSet>

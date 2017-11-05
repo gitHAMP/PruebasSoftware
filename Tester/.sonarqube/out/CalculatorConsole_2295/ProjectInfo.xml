@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>CalculatorConsole</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>652f148e-672e-4c5c-ba4e-90d01bcae8cf</ProjectGuid>
+  <FullPath>C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\CalculatorConsole.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\hamp\source\repos\PruebasSoftware2\Tester\.sonarqube\out\\CalculatorConsole_2295\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\bin\Debug\CalculatorConsole.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\hamp\source\repos\PruebasSoftware2\Tester\.sonarqube\out\\CalculatorConsole_2295</Property>
+    <Property Name="sonar.stylecop.projectFilePath">C:\Users\hamp\source\repos\PruebasSoftware2\Tester\CalculatorConsole\CalculatorConsole.csproj</Property>
+  </AnalysisSettings>
+</ProjectInfo>

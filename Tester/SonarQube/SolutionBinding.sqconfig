@@ -1,11 +1,11 @@
 {
-  "ServerUri": "http://serversonar.azurewebsites.net/",
+  "ServerUri": "http://serversonar.azurewebsites.net",
   "Organization": null,
-  "ProjectKey": "CC",
+  "ProjectKey": "CalculadorConsole",
   "Profiles": {
     "CSharp": {
-      "ProfileKey": "AV-Kgkl5L_CdTu-j7cVX",
-      "ProfileTimestamp": "2017-11-04T23:48:35-05:00"
+      "ProfileKey": "AV-MckoSh5HvCstYYM_V",
+      "ProfileTimestamp": "2017-11-05T08:50:21-05:00"
     }
   }
 }

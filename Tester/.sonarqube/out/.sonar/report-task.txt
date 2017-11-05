@@ -1,0 +1,6 @@
+projectKey=CalculadorConsole
+serverUrl=http://serversonar.azurewebsites.net
+serverVersion=6.6.0.32724
+dashboardUrl=http://serversonar.azurewebsites.net/dashboard/index/CalculadorConsole
+ceTaskId=AV-MoH3ch5HvCstYYNW4
+ceTaskUrl=http://serversonar.azurewebsites.net/api/ce/task?id=AV-MoH3ch5HvCstYYNW4
